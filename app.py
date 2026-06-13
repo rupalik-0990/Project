@@ -5,5 +5,5 @@ def subtract(a,b):
     return a-b
 
 
-def div(a,b):
-    return a/b
+def div(a,d):
+    return a/d
